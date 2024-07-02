@@ -1,0 +1,21 @@
+.headline {
+    color: red;
+
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: orange;
+    transition: 200ms;
+}
+
+.time {
+    color: cadetblue;
+}
